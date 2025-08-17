@@ -2,6 +2,7 @@
 -- Best Practices in API Design
 
 link: https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7361069384850653186-5gah
+
 APIs are the backbone of communication over the Internet. Well-designed APIs behave consistently, are predictable, and grow without friction. Some best practices to keep in mind are as follows:
 
 1 - Use Clear Naming: When building an API, choose straightforward and logical names. Be consistent and stick with intuitive URLs that denote collections. 
